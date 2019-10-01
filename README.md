@@ -1,5 +1,6 @@
-About:
-Testing can be done on mobile web by leveraging https://github.com/appium/appiumAppium. Since Appium uses vendor provided framework under the hood, it doesn't need to compile in any Appium-specific or third-party code or frameworks to our app.
+About:    
+Testing can be done on mobile web by leveraging https://github.com/appium/appium. Since Appium uses vendor provided framework under the hood, it doesn't need to compile in any Appium-specific or third-party code or frameworks to our app.
+More info here: http://appium.io
 
 Requirements:
 iOS
@@ -28,7 +29,7 @@ Install from git
      git clone https://github.com/appium/appium
 
 Start a basic appium server using: appium &
-
+More info here: http://appium.io/docs/en/about-appium/getting-started/?lang=en    
 
 Features:
 
