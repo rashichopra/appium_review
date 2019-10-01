@@ -111,7 +111,7 @@ It is possible to connect and run tests on multiple android devices simultaneous
 
                dp1, dp2: arbitrary device-port
 
-               More Info here     
+               More Info here: https://github.com/appium/appium/issues/462
 
 
 
@@ -124,6 +124,6 @@ Limitations:
 
 3. Even though it is possible to connect and run tests on multiple android devices, it is kind of unstable due to 'adb' flakiness.
 
-4. iOS Simulator defaults to the version of Xcode on the system. To use older versions, need to have multiple versions of Xcode and switch between them. See Appium issue#1089
+4. iOS Simulator defaults to the version of Xcode on the system. To use older versions, need to have multiple versions of Xcode and switch between them. See Appium issue#1089:https://github.com/appium/appium/issues/1089
 
 
